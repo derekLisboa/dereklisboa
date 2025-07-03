@@ -12,6 +12,8 @@
 - 🖥️ Apaixonado por tecnologia;
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 ## 🛠 Tecnologias & Ferramentas
 
 | Backend           | Frontend      | Banco de Dados | DevOps        | Outros              |
