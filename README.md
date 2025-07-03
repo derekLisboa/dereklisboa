@@ -13,7 +13,7 @@
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 - 
 <a href="https://github.com/derekLisboa/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=derekLisboa" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=derekLisboa&theme=radical" />
 </a>
 <a href="https://github.com/derekLisboa/convoychat">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=derekLisboa&layout=compact&langs_count=8&card_width=320&theme=radical" />
