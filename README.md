@@ -48,10 +48,12 @@
 ![Eclipse](	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-## 📫 Como me encontrar
 
-| Email                        | LinkedIn                                   | 
-|------------------------------|--------------------------------------------|
-| derekmlisboa@gmail.com       | https://www.linkedin.com/in/derek-lisboa/  |
+## Contacts:
 
+<div> 
+
+<a href = "mailto:derekmlisboa@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/derek-lisboa/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>  
+</div>&nbsp;&nbsp;
 ---
