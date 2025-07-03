@@ -17,9 +17,9 @@
 | Backend           | Frontend      | Banco de Dados | DevOps        | Outros              |
 |-------------------|---------------|----------------|---------------|---------------------|
 | Java              | React         | MySQL          | Docker        | Git / GitHub        |
-| Spring Boot       | HTML/CSS      | PostgreSQL     | Maven         | Linux               |
-| Spring Cloud      |               | H2             |               | REST APIs           |
-
+| Spring Boot       | HTML          | PostgreSQL     | Maven         |                     |
+| Spring Cloud      | CSS           | H2             |               | REST APIs           |
+| Node.js           |
 ## 📂 Projetos em Destaque
 
 | Projeto                | Descrição                                    | Link                                               |
