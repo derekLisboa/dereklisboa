@@ -1,15 +1,16 @@
 <div align="center">
   <h1>Olá, eu sou o Derek Lisboa 👋</h1>
-  <p>Desenvolvedor FullStack | Java | Spring Boot | Microsserviços </p>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="150" />
+  <p>Desenvolvedor FullStack </p>
 </div>
 
 ---
 
 ## 🚀 Sobre mim
-- Apaixonado por tecnologia, focado em desenvolvimento backend com Java e Spring Boot.
-- Experiência com microsserviços, APIs REST e front-end com React.
-- Sempre buscando aprender e compartilhar conhecimento.
+
+- 📚 Estudando ADS na FMU, formação prevista em 2026.
+- 🤵 Iniciei minha jornada acadêmica em Engenharia Naval pela UFSC, movido pela paixão em entender grandes sistemas e estruturas. No entanto, após passar por duas cirurgias nos joelhos e compreender as limitações físicas decorrentes, percebi que o caminho profissional que desejava naquele momento não seria sustentável para mim. Por já possuir formação técnica em TI pelo SENAI-SC (2014), decidi retomar esse percurso e iniciei minha graduação em Análise e Desenvolvimento de Sistemas.
+- 🖥️ Apaixonado por tecnologia;
+- 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 
 ## 🛠 Tecnologias & Ferramentas
 
