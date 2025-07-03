@@ -12,9 +12,8 @@
 - 🖥️ Apaixonado por tecnologia;
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 <div>
-  <a href="https://beacons.ai/dereklisboa">
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklisboa&show_icons=true&theme=radical)
-    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklisboa&show_icons=true&theme=radical)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact&theme=radical)
 </div>div
 
 ## 🛠 Tecnologias & Ferramentas
