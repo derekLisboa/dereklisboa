@@ -13,8 +13,7 @@
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklisboa&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/apidereklisboa?username=ffflabs)](https://github.comdereklisboa/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact&theme=radical)
 
 ## 🛠 Tecnologias & Ferramentas
 
