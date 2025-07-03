@@ -12,6 +12,12 @@
 - 🖥️ Apaixonado por tecnologia;
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 
+  <div>
+<a href="https://github.com/yamadabruno">
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=dereklisba&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
+
 <div>
   <a href="https://github.com/derekLisboa/github-readme-stats">
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=derekLisboa&theme=radical" />
