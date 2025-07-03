@@ -13,7 +13,7 @@
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 
   <div>
-<a href="https://github.com/yamadabruno">
+<a href="https://github.com/dereklisboa">
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact&langs_count=7&theme=radical"/>
 <img loading="lazy" height="160em" src="https://github-readme-stats.vercel.app/api?username=dereklisboa&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 </div>
