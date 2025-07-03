@@ -20,12 +20,7 @@
 | Spring Boot       | HTML          | PostgreSQL     | Maven         |                     |
 | Spring Cloud      | CSS           | H2             |               | REST APIs           |
 | Node.js           |
-## 📂 Projetos em Destaque
 
-| Projeto                | Descrição                                    | Link                                               |
-|------------------------|----------------------------------------------|----------------------------------------------------|
-| Projeto SpringBoot e Cloud| Microsserviços com Spring Boot e Eureka      | https://github.com/derekLisboa/Projeto-SpringBoot  |
-| Projeto Xadrez Java    | Toda funcionalidade da partida, tabuleiro e peças       | https://github.com/derekLisboa/Chess-Projetc-Java  |
 
 ## 📫 Como me encontrar
 
