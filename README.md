@@ -13,6 +13,7 @@
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklisboa)](https://github.com/dereklisboa/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=dereklisboa&hide=contribs,prs)
 
 ## 🛠 Tecnologias & Ferramentas
 
