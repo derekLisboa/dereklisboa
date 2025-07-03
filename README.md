@@ -24,7 +24,7 @@
 
 | Projeto                | Descrição                                    | Link                                               |
 |------------------------|----------------------------------------------|----------------------------------------------------|
-| ms-course              | Microsserviços com Spring Boot e Eureka      | https://github.com/derekLisboa/Projeto-SpringBoot  |
+| Projeto SpringBoot e Cloud| Microsserviços com Spring Boot e Eureka      | https://github.com/derekLisboa/Projeto-SpringBoot  |
 | Projeto Xadrez Java    | Quiz interativo sobre K-Pop com React        | https://github.com/derekLisboa/Chess-Projetc-Java  |
 
 ## 📫 Como me encontrar
