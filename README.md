@@ -10,14 +10,13 @@
 - 🤵 Iniciei minha jornada acadêmica em Engenharia Naval pela UFSC, movido pela paixão em entender grandes sistemas e estruturas. No entanto, após passar por duas cirurgias nos joelhos e compreender as limitações físicas decorrentes, percebi que o caminho profissional que desejava naquele momento não seria sustentável para mim. Por já possuir formação técnica em TI pelo SENAI-SC (2014), decidi retomar esse percurso e iniciei minha graduação em Análise e Desenvolvimento de Sistemas.
 - 🖥️ Apaixonado por tecnologia;
 - 🎮 Hobbies: Jogar com os amigos, sair para conversar e jogar conversa fora.
-<div>
-  <a href="https://github.com/dereklisboa/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=dereklisboa" />
-  </a>
-  <a href="https://github.com/dereklisboa/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dereklisboa&layout=compact&langs_count=8&card_width=320" />
-  </a>
-</div>
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dereklisboa&layout=compact&theme=radical)
