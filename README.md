@@ -44,7 +44,6 @@
 ![Eclipse](	https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)&nbsp;
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)&nbsp;
 
-[![Gráfico de Contribuições](https://github-readme-streak-stats.herokuapp.com/?user=dereklisboaO&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 ## Contacts:
 
